@@ -8,6 +8,8 @@ The assignment concerns the well-known Anscombe’s quartet dataset. We are requ
 
 # Anscombe’s quartet dataset
 
+#### Please refer the Jupyter Notebook called Anscombes_Quartet.ipynb, with the workings and more details. 
+
 ## Analysis
 
 Anscombe’s quartet dataset was contructed in 1973 by the statistician Francis Anscombe. This is an interesting set of data which clearly provides a useful caution against applying individual statistical methods to data without graphing them. The dataset shows the effects of outliers on Statistical properties. This data set has identical Statiscal properties but has a totally different view when graphed, this article described the difference among the statisticians that"numerical calculations are exact, but graphs are rough."[1] 
